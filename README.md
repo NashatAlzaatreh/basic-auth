@@ -13,9 +13,9 @@
 
 ## Deploy, Run and Test
 
-- [test report]()
-- [deployed link]()
-- [Pull Request]()
+- [test report](https://github.com/NashatAlzaatreh/basic-auth/actions)
+- [deployed link](https://basic-auth-nashat.herokuapp.com/)
+- [Pull Request](https://github.com/NashatAlzaatreh/basic-auth/pull/1)
 
 ### Setup
 
